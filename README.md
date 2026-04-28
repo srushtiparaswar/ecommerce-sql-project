@@ -27,7 +27,3 @@
 
 🚀 Outcome
    This project helped me understand how to work with multiple tables, perform joins, and analyze real-world business data using SQL.
-
-
-
-(Add your repository link here)
